@@ -1,0 +1,1 @@
+<?php /**PATH D:\PHP-8.2.4\htdocs\test-project\resources\views/components/application-logo.blade.php ENDPATH**/ ?>

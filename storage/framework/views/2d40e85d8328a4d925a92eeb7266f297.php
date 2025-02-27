@@ -1,0 +1,1 @@
+<?php /**PATH D:\PHP-8.2.4\htdocs\test-project\resources\views/layouts/partial/__media_files.blade.php ENDPATH**/ ?>
